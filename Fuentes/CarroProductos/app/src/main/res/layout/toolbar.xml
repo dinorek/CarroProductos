@@ -8,6 +8,7 @@
     android:background="@color/colorPrimaryDark"
     app:popupTheme="@style/Theme.AppCompat.Light"
     android:id="@+id/toolbar"
+    android:padding="@dimen/paddingToolbar"
     android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
     android:layout_height="wrap_content">
 

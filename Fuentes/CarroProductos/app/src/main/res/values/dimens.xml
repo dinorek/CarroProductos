@@ -4,4 +4,6 @@
     <dimen name="titulo_app_size">40sp</dimen>
     <dimen name="margin_left_titulo_app">40dp</dimen>
     <dimen name="margin_left_producto">30dp</dimen>
+    <dimen name="paddingToolbar">10dp</dimen>
+    <dimen name="margin_top_prod">15dp</dimen>
 </resources>

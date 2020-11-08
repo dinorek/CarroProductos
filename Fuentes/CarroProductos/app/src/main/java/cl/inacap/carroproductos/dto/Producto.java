@@ -1,6 +1,8 @@
 package cl.inacap.carroproductos.dto;
 
-public class Producto {
+import java.io.Serializable;
+
+public class Producto implements Serializable {
     private String nombre;
     private String descripcion;
     private String foto; //aqui agrego la url de la foto por eso es string
